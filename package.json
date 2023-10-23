@@ -1,0 +1,16 @@
+{
+  "name": "express-crud-pgsql",
+  "version": "1.0.0",
+  "description": "trying express crud restapi with pgsql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/jojohimawan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
